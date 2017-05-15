@@ -19,7 +19,7 @@ $mensaje .= "Su e-mail es: " . $mail . " \r\n";
 $mensaje .= "Enviado el " . date('j/n/Y', time()); 
 
 //Correo de destino; donde se enviará el correo.
-$correoDestino = "apbravo8@gmail.com";
+$correoDestino = "jorge.torres@target.com.ni";
 $asunto = 'Registro'; 
 
 mail($correoDestino, $asunto, utf8_decode($mensaje), $header); 
