@@ -69,7 +69,7 @@ Si cumplís estos requisitos, animate y aplicá.
 					    	
 						    
 						    $('#formulario').hide();
-						    $('#textoContacto').append("<p class='thanks'>Gracias por contactar con nosotros.</p>")
+						    $('#textoContacto').append("<p class='thanks'>Gracias por su Registro.</p>")
 					    }
 				    });
 			    }
