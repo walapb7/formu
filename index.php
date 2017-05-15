@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Documento sin título</title>
+<title>Formulario</title>
 <link rel="stylesheet" href="css/style.css" />
 </head>
 
@@ -56,8 +56,8 @@ Si cumplís estos requisitos, animate y aplicá.
 </footer>
 <!-- Códigos de validación para el formulario -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-	<script src="js/jquery.validate.js"></script>
-	<script src="js/jquery.form.js"></script>
+	<script src="jquery.validate.js"></script>
+	<script src="jquery.form.js"></script>
 <!-- Script que llama a la validación del formulario -->
 	<script>
 		$(function(){
